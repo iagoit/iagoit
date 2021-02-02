@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Computer Vision
 - 🤝 I’m looking to collaborate on anything related to Machine Learning, Deep Learning and Data Visualization projects.
-- 😄 Pronouns: Data Scientist and Data Analyst.
+- 🧸 Pronouns: Data Scientist and Data Analyst.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
 
