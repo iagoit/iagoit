@@ -7,8 +7,8 @@ Im Iago, Computer Science Student (last period).
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
 - 🤖 I’m currently learning Machine Learning, Deep Learning and Computer Vision
 - 🤝 I’m looking to collaborate on anything related to Machine Learning, Deep Learning and Data Visualization projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira) , [Email](mailto:iago.sty@gmail.com)
 - 😄 Pronouns: Data Scientist and Data Analyst.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira) , [Email](mailto:iago.sty@gmail.com)
 
 <br />
 
