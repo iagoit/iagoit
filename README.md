@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<br />
 
 Im Iago, 24 y.o.
 
@@ -7,5 +8,6 @@ Im Iago, 24 y.o.
 [![Medium Badge](https://img.shields.io/badge/-@iagoitz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://iagoitz.medium.com/)](https://iagoitz.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-iago.sty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iago.sty@gmail.com)](mailto:iago.sty@gmail.com)
 
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=tokyonight)
