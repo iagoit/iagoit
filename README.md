@@ -20,3 +20,7 @@ Im Iago, Computer Science Student (last period).
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=tokyonight)
+
+<br />
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iagoit.iagoit)
