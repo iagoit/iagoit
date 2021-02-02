@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br />
+Im Iago, Computer Science Student (last period).
 
 ### About me
 - 👨🏼‍💻 Skilled in Python and Data Visualization.
@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira) , [Email](mailto:iago.sty@gmail.com)
 - 😄 Pronouns: Data Scientist and Data Analyst.
 
-Im Iago, Computer Science Student (last period).
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-iagoit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagoteixeira)](https://www.linkedin.com/in/iagoteixeira)
 [![Medium Badge](https://img.shields.io/badge/-@iagoitz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://iagoitz.medium.com/)](https://iagoitz.medium.com/)
