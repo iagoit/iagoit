@@ -2,8 +2,6 @@
 
 **I'm Iago, graduated in Computer Science.**
 
-<img align='right' src="https://i.giphy.com/media/xonOzxf2M8hNu/giphy.webp" width="400">
-
 ### About me
 - 👨🏼‍💻 Skilled in Python, SQL, Machine Learning and Data Visualization.
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
@@ -21,6 +19,8 @@
 
 <br />
 
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=dracula&exclude_repo=ProjetoIntegrador" alt="iagoit" /></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=tokyonight)
 
 <br />
