@@ -19,7 +19,7 @@
 
 ### Languages & Tools
 
-<img height="40" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"> 
+<img height="80" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"> 
 <img height="40" src=""> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=ProjetoIntegrador" alt="noniagoitsene" /></p>
