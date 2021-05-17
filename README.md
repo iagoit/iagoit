@@ -18,10 +18,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-iago.sty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iago.sty@gmail.com)](mailto:iago.sty@gmail.com)
 
 <br />
-
+<p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoit&layout=compact&theme=tokyonight)](https://github.com/iagoit/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=tokyonight)
+
+</p>
 
 <br />
 
