@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**I'm Iago, Computer Science Student (last period).**
+**I'm Iago, graduated in Computer Science.**
 
 ### About me
-- 👨🏼‍💻 Skilled in Python and Data Visualization.
+- 👨🏼‍💻 Skilled in Python, SQL, Machine Learning and Data Visualization.
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Computer Vision
-- 🤝 I’m looking to collaborate on anything related to Machine Learning, Deep Learning and Data Visualization projects.
+- 🌱 I’m currently learning Deep Learning and Computer Vision
+- 🤝 I’m looking to collaborate on anything related to Python, Machine Learning and Data Visualization projects.
 - 🧸 Pronouns: Data Scientist and Data Analyst.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
