@@ -2,6 +2,8 @@
 
 **I'm Iago, graduated in Computer Science.**
 
+<img align='right' src="https://i.giphy.com/media/xonOzxf2M8hNu/giphy.webp" width="400">
+
 ### About me
 - 👨🏼‍💻 Skilled in Python, SQL, Machine Learning and Data Visualization.
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
@@ -10,8 +12,6 @@
 - 🧸 Pronouns: Data Scientist and Data Analyst.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
-
-<img align='right' src="https://i.giphy.com/media/xonOzxf2M8hNu/giphy.webp" width="400">
 
 <br />
 
