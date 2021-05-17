@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align='right' src="https://media4.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=790b76117ec1c26583a2262be790b950b0d1ee80c71ebc85&rid=giphy.gif&ct=g" width="400">
+<img align='right' src="https://i.giphy.com/media/xonOzxf2M8hNu/giphy.webp" width="400">
 
 **I'm Iago, graduated in Computer Science.**
 
