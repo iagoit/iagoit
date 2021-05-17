@@ -30,6 +30,7 @@
 <code> <img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> </code>
 <code> <img height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"> </code>
 
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=ProjetoIntegrador" alt="noniagoitsene" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&locale=en&theme=tokyonight" alt="iagoit" width="410" /></p>
