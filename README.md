@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-iago.sty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iago.sty@gmail.com)](mailto:iago.sty@gmail.com)
 
 ### Languages & Tools
-<hr>
+<br>
 <code> <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
 <code> <img height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"> </code>
 <code> <img height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg"> </code>
