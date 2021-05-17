@@ -20,7 +20,6 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=ProjetoIntegrador" alt="iagoit" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&locale=en&theme=tokyonight" alt="iagoit" width="410" /></p>
 
 
