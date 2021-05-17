@@ -19,9 +19,9 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&locale=en&theme=tokyonight" alt="iagoit" width="400" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&locale=en&theme=tokyonight" alt="iagoit" width="410" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=ProjetoIntegrador" alt="iagoit" width="400" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=ProjetoIntegrador" alt="iagoit" width="410" /></p>
 
 
 
