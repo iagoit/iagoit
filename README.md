@@ -19,8 +19,8 @@
 
 <br />
 
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=dracula&exclude_repo=ProjetoIntegrador" alt="iagoit" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoit&layout=compact)](https://github.com/iagoit/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=tokyonight)
 
 <br />
