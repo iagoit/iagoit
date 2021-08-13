@@ -16,6 +16,12 @@
 <a href="mailto:iago.sty@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <a href="https://github.com/iagoit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoit&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoit&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=ProjetoIntegrador" alt="noniagoitsene" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&locale=en&theme=tokyonight" alt="iagoit" width="410" /></p>
 
