@@ -15,7 +15,7 @@
 <a href="https://iagoitz.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="mailto:iago.sty@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+</br>
 <div>
   <a href="https://github.com/iagoit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
