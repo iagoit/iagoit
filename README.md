@@ -11,6 +11,9 @@
 - 💬 Ask me about anything, I am happy to help :)
 
 <br />
+<a href="https://www.linkedin.com/in/iagoteixeira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://iagoitz.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="mailto:iago.sty@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-iagoit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagoteixeira)](https://www.linkedin.com/in/iagoteixeira)
 [![Medium Badge](https://img.shields.io/badge/-@iagoitz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://iagoitz.medium.com/)](https://iagoitz.medium.com/)
