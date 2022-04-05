@@ -3,10 +3,9 @@
 **I'm Iago, graduated in Computer Science.**
 
 ### About me
-- 👨🏼‍💻 Skilled in Python, SQL, Machine Learning and Data Visualization.
-- 🔭 I’m currently working on Machine Learning and Data Visualization projects.
+- 👨🏼‍💻 Skilled in Python, SQL and Data Visualization.
 - 🌱 I’m currently learning NLP
-- 🤝 I’m looking to collaborate on anything related to Python, Machine Learning and Data Visualization projects.
+- 🤝 I’m looking to collaborate on anything related to Python, SQL and Data Visualization projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
 </br>
