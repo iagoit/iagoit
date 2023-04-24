@@ -4,7 +4,7 @@
 
 ### About me
 - 👨🏼‍💻 Skilled in Python, SQL and Data Visualization.
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Data Engineering
 - 🤝 I’m looking to collaborate on anything related to Python, SQL and Data Visualization projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
